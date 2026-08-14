@@ -3,8 +3,6 @@
 - 🌱 Atualmente estudando ....
 - 📫 Contate-me no email: vitoriadiel7@gmail.com ...
 - 📌 Brasil/ SC
-- 
--->
 
 <<h3>🛠️ Tecnologias que estou aprendendo</h3>
 
