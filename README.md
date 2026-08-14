@@ -20,7 +20,4 @@
   
   <img align="center" alt="Python" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  
-  <img align="center" alt="Figma" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</div>
+  </div>
