@@ -16,7 +16,7 @@
 ![Figma](https://img.shields.io/badge/Figma-FF1493?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-323330?style=for-the-badge&logo=trello&logoColor=white)
 
-https://raw.githubusercontent.com/Viviss-18/Viviss-18/output/github-contribution-grid-snake.svg
+![Snake animation](https://raw.githubusercontent.com/Viviss-18/Viviss-18/output/github-contribution-grid-snake.svg)
 
 
 
