@@ -1,7 +1,8 @@
 
-- 🌱 Atualmente estudando ....
-- 📫 Contate-me no email: vitoriadiel7@gmail.com ...
+- 🌱 Atualmente estudando
+- 📫 Contate-me no email: vitoriadiel7@gmail.com
 - 📌 Brasil/ SC
+
 
 <img align="right" width="180" height="180" alt="giphy" src="https://github.com/user-attachments/assets/dc712a7b-9551-405c-ba09-b938196347f9" />
 
