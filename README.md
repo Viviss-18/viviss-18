@@ -1,14 +1,9 @@
-## Oie !! Eu sou a Vivi
 
 - 🌱 Atualmente estudando ....
 - 📫 Contate-me no email: vitoriadiel7@gmail.com ...
 - 📌 Brasil/ SC
 
-<<h3>🛠️ Tecnologias que estou aprendendo</h3>
 
-<div>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdwcGZuOXR0cGN6dTNxNHp1bHdydjd4Y2Y0cTB1NXdlY2MxbW5sciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXXFrjHFJIMoqKr8UT/giphy.gif" width="100px" height="100px">
-</div>
 
 ![Python](https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white)
