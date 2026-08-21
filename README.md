@@ -1,8 +1,17 @@
 
-- 🌱 Atualmente estudando
-- 📫 Contate-me no email: vitoriadiel7@gmail.com
-- 📌 Brasil/ SC
+ 🐱 About Me
+ 
+  Hi! I’m Vitoria, I live in Brazil, in Santa Catarina.
+I’m currently finishing high school.
+I’m a student focused on my studies and personal growth.
+I enjoy learning new things and improving myself.
+I value a simple and positive lifestyle.
+🐱 Where to find me
+📧 Email: vitoriadiel7@gmail.com
 
+🐱 Welcome little corner on github
+
+🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾
 
 <img align="right" width="180" height="180" alt="giphy" src="https://github.com/user-attachments/assets/dc712a7b-9551-405c-ba09-b938196347f9" />
 
